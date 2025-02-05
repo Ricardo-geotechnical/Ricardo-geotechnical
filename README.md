@@ -1,19 +1,18 @@
 👋 Welcome to My GitHub Profile!
 
-I am a Geotechnical Engineer with experience in numerical modeling and reliability analysis. My goal is to integrate uncertainty quantification into geotechnical analysis to improve risk assessment in engineering projects.
+I am a Geotechnical Engineer with experience in numerical modeling, probabilistic methods, and uncertainty quantification. My goal is to integrate stochastic analysis into geotechnical engineering to enhance risk assessment and decision-making under uncertainty.
 
-Topics:
+Topics of Interest
 
-🔹 Flow & Transport Modeling – Simulating fluid flow through porous media under saturated and unsaturated conditions.
+🔹 Flow & Transport Modeling – Simulating fluid flow in porous media under both saturated and unsaturated conditions.
 
-🔹 Reliability & Bayesian Analysis – Probabilistic approaches to geotechnical parameters and performance evaluation.
-
+🔹 Probabilistic & Bayesian Analysis – Using stochastic models to characterize geotechnical parameters and update predictions with new data.
 
 Current Projects
 
-🚧 1D Monte Carlo Flow Simulation – Estimating permeability uncertainties and flow distribution in saturated media.
+🚧 1D Monte Carlo Flow Simulation – Quantifying the impact of permeability variability on flow distribution in saturated media using probabilistic methods.
 
-I’m open to discussions, collaborations, and ideas! If you’re working on similar topics or have insights on geotechnical uncertainty modeling, feel free to reach out.
+I'm always open to discussions, collaborations, and new ideas! If you work on geotechnical uncertainty modeling, probabilistic methods, or related topics, feel free to reach out.
 
 📩 LinkedIn: https://www.linkedin.com/in/ricardo-z-37942560/
 
