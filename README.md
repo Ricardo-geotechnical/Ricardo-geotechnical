@@ -14,7 +14,7 @@ Current Projects
 
 I'm always open to discussions, suggestions, and new ideas! If you work on geotechnical uncertainty modeling, probabilistic methods, or related topics, feel free to reach out.
 
-📩 LinkedIn: https://www.linkedin.com/in/ricardo-z-37942560/
+None of the display content is intended for profesional use, only academic purposes
 
 <!--
 **Ricardo-geotechnical/Ricardo-geotechnical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
